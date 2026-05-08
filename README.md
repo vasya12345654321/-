@@ -24,15 +24,14 @@
 
 \### Балансировщик и целевая группа
 
+<img width="3837" height="1252" alt="Снимок экрана 2026-05-08 203657" src="https://github.com/user-attachments/assets/ffebc2f6-21ff-470c-a1fe-1c1f8e811623" />
 
-
-!\[img](lb.png)
+<img width="2645" height="2042" alt="груп" src="https://github.com/user-attachments/assets/76a0dac1-e838-4d02-80ce-80405c72ced9" />
 
 
 
 \### Страница nginx
 
+<img width="3832" height="2035" alt="nginx-page" src="https://github.com/user-attachments/assets/8eccae8b-2770-4d4f-a593-7c681cb3dc99" />
 
-
-!\[img](nginx.png)
 
