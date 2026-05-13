@@ -34,4 +34,40 @@
 
 <img width="3832" height="2035" alt="nginx-page" src="https://github.com/user-attachments/assets/8eccae8b-2770-4d4f-a593-7c681cb3dc99" />
 
+---
+
+# Задание 2* (со звёздочкой)
+
+## Terraform Playbook
+
+Использованы файлы:
+
+- task2-star/main.tf
+- task2-star/provider.tf
+- task2-star/variables.tf
+- task2-star/outputs.tf
+- task2-star/metadata.yaml
+
+## Что было реализовано
+
+- Instance Group
+- Load Balancer
+- Health Check
+- Автоматическая установка nginx через cloud-init (metadata.yaml)
+
+## Скриншоты
+
+### Балансировщик Active
+
+![img](task2-star/lb-active.png)
+
+### Target Group Healthy
+
+![img](task2-star/healthy.png)
+
+### Nginx через балансировщик
+
+![img](task2-star/nginx.png)
+
+
 
