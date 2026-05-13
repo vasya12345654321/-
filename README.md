@@ -59,15 +59,17 @@
 
 ### Балансировщик Active
 
-![img](task2-star/lb-active.png)
+<img width="3165" height="815" alt="2-2 active" src="https://github.com/user-attachments/assets/8e9782b6-4245-4e98-b1ba-ec70250e2726" />
+
 
 ### Target Group Healthy
 
-![img](task2-star/healthy.png)
+<img width="2767" height="1927" alt="healty" src="https://github.com/user-attachments/assets/03e6d52d-bd82-4996-b7ad-7dcb0204b155" />
+
 
 ### Nginx через балансировщик
 
-![img](task2-star/nginx.png)
+<img width="3837" height="1672" alt="nginx2" src="https://github.com/user-attachments/assets/8662d7a0-9b11-4eeb-ba46-9dce7267211f" />
 
 
 
